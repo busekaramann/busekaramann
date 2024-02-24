@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Buse</h1>
 <h3 align="center">Back-End Developer</h3>
-- 🔭 I’m currently working at Octo Course
+- 🔭 I’m currently working at Car Studio AI
 
 <hr class="dotted">
 
